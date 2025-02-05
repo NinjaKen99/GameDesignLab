@@ -1364,7 +1364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3addf5f91b9cae4cb274b45e87ea6ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 34
+  speed: 35
   maxSpeed: 50
   upSpeed: 30
   marioAnimator: {fileID: 736663462}
@@ -1443,7 +1443,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 526936416, guid: f1bde3f95d8d049e59a4208ea4358c51, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

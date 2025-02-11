@@ -220,7 +220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_7
+      name: moving_platform_6
       rect:
         serializedVersion: 2
         x: 143
@@ -241,7 +241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_8
+      name: moving_platform_3
       rect:
         serializedVersion: 2
         x: 198
@@ -472,7 +472,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_19
+      name: moving_platform_4
       rect:
         serializedVersion: 2
         x: 143
@@ -703,7 +703,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_30
+      name: empty_block_brown
       rect:
         serializedVersion: 2
         x: 373
@@ -1606,7 +1606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_74
+      name: block_coin_2
       rect:
         serializedVersion: 2
         x: 440
@@ -1627,7 +1627,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_75
+      name: block_coin_3
       rect:
         serializedVersion: 2
         x: 448
@@ -1648,7 +1648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_76
+      name: block_coin_4
       rect:
         serializedVersion: 2
         x: 461
@@ -1837,7 +1837,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_85
+      name: ui_coin_1
       rect:
         serializedVersion: 2
         x: 463
@@ -1858,7 +1858,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_86
+      name: ui_coin_2
       rect:
         serializedVersion: 2
         x: 470
@@ -1879,7 +1879,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_87
+      name: ui_coin_3
       rect:
         serializedVersion: 2
         x: 477
@@ -5784,6 +5784,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: block_coin_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1093
+        width: 1
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accfee82df6c5ca4a9c0dd8c1d760319
+      internalID: 871582404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -5802,6 +5823,10 @@ TextureImporter:
       QuestionBlock_2: -998935763
       QuestionBlock_3: 1888805763
       block_brown: -40015800
+      block_coin_1: 871582404
+      block_coin_2: -2040347470
+      block_coin_3: -586304481
+      block_coin_4: 1326446050
       brick_brown: 12696194
       cloud_blue_1: 1450029360
       cloud_blue_2: -1827858487
@@ -5809,6 +5834,7 @@ TextureImporter:
       coin_1: 108778609
       coin_2: 1865855305
       coin_3: -1525912359
+      empty_block_brown: 880639796
       flagpole_1: 1668589912
       fort_brown: 1992789987
       goomba_1: 1630883942
@@ -5910,7 +5936,6 @@ TextureImporter:
       misc-3_187: -1223898253
       misc-3_188: -354520188
       misc-3_189: 1839671814
-      misc-3_19: -2056687153
       misc-3_190: 2104588475
       misc-3_191: -31631243
       misc-3_192: -1953647049
@@ -6033,7 +6058,6 @@ TextureImporter:
       misc-3_298: -65873084
       misc-3_299: 2077266841
       misc-3_3: 1896862891
-      misc-3_30: 880639796
       misc-3_300: -199524469
       misc-3_301: -956843414
       misc-3_302: -424348348
@@ -6314,19 +6338,11 @@ TextureImporter:
       misc-3_66: -217259726
       misc-3_68: -1827984752
       misc-3_69: -451254147
-      misc-3_7: -1180509867
       misc-3_70: -586240051
       misc-3_71: -1385639581
       misc-3_72: -1103142302
-      misc-3_74: -2040347470
-      misc-3_75: -586304481
-      misc-3_76: 1326446050
       misc-3_77: -252857693
       misc-3_78: 711898046
-      misc-3_8: 1723821906
-      misc-3_85: -432756219
-      misc-3_86: -2146595930
-      misc-3_87: 1131242265
       misc-3_89: 426460065
       misc-3_90: -729103154
       misc-3_91: -2080962239
@@ -6338,11 +6354,17 @@ TextureImporter:
       misc-3_97: 443974581
       misc-3_98: -304846975
       misc-3_99: -1038564895
+      moving_platform_3: 1723821906
+      moving_platform_4: -2056687153
+      moving_platform_6: -1180509867
       mushroom: -929467174
       shrub_1: 199810366
       shrub_2: 1058888003
       shrub_3: -735380238
       start: -1398253719
+      ui_coin_1: -432756219
+      ui_coin_2: -2146595930
+      ui_coin_3: 1131242265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

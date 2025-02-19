@@ -199,7 +199,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_6
+      name: 1up_underground
       rect:
         serializedVersion: 2
         x: 98
@@ -220,7 +220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_7
+      name: moving_platform_6
       rect:
         serializedVersion: 2
         x: 143
@@ -241,7 +241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_8
+      name: moving_platform_3
       rect:
         serializedVersion: 2
         x: 198
@@ -262,7 +262,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: flagpole_1
+      name: flagpole
       rect:
         serializedVersion: 2
         x: 260
@@ -367,7 +367,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_14
+      name: brick_blue
       rect:
         serializedVersion: 2
         x: 393
@@ -472,7 +472,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_19
+      name: moving_platform_4
       rect:
         serializedVersion: 2
         x: 143
@@ -703,7 +703,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_30
+      name: empty_block_brown
       rect:
         serializedVersion: 2
         x: 373
@@ -724,7 +724,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_31
+      name: empty_block_blue
       rect:
         serializedVersion: 2
         x: 393
@@ -997,7 +997,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_44
+      name: flag
       rect:
         serializedVersion: 2
         x: 432
@@ -1081,7 +1081,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_48
+      name: star_1
       rect:
         serializedVersion: 2
         x: 53
@@ -1501,7 +1501,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_69
+      name: block_blue
       rect:
         serializedVersion: 2
         x: 393
@@ -1522,7 +1522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_70
+      name: ground_blue
       rect:
         serializedVersion: 2
         x: 393
@@ -1606,7 +1606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_74
+      name: block_coin_2
       rect:
         serializedVersion: 2
         x: 440
@@ -1627,7 +1627,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_75
+      name: block_coin_3
       rect:
         serializedVersion: 2
         x: 448
@@ -1648,7 +1648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_76
+      name: block_coin_4
       rect:
         serializedVersion: 2
         x: 461
@@ -1837,7 +1837,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_85
+      name: ui_coin_1
       rect:
         serializedVersion: 2
         x: 463
@@ -1858,7 +1858,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_86
+      name: ui_coin_2
       rect:
         serializedVersion: 2
         x: 470
@@ -1879,7 +1879,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_87
+      name: ui_coin_3
       rect:
         serializedVersion: 2
         x: 477
@@ -1921,7 +1921,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_89
+      name: QuestionBlock_blue_1
       rect:
         serializedVersion: 2
         x: 372
@@ -1942,7 +1942,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_90
+      name: QuestionBlock_blue_2
       rect:
         serializedVersion: 2
         x: 390
@@ -1963,7 +1963,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_91
+      name: QuestionBlock_blue_3
       rect:
         serializedVersion: 2
         x: 408
@@ -1984,7 +1984,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_92
+      name: coin_blue_1
       rect:
         serializedVersion: 2
         x: 427
@@ -2005,7 +2005,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_93
+      name: coin_blue_2
       rect:
         serializedVersion: 2
         x: 439
@@ -2026,7 +2026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_94
+      name: coin_blue_3
       rect:
         serializedVersion: 2
         x: 451
@@ -2425,12 +2425,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fort_brown
+      name: fort_brown_left
       rect:
         serializedVersion: 2
         x: 272
         y: 954
-        width: 80
+        width: 40
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4378,7 +4378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_379
+      name: pirhana_1
       rect:
         serializedVersion: 2
         x: 587
@@ -4399,7 +4399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_380
+      name: pirhana_2
       rect:
         serializedVersion: 2
         x: 608
@@ -4546,7 +4546,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_387
+      name: goomba_blue_1
       rect:
         serializedVersion: 2
         x: 253
@@ -4567,7 +4567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_388
+      name: goomba_blue_2
       rect:
         serializedVersion: 2
         x: 272
@@ -4756,7 +4756,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_397
+      name: pirhana_blue_1
       rect:
         serializedVersion: 2
         x: 587
@@ -4777,7 +4777,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_398
+      name: pirhana_blue_2
       rect:
         serializedVersion: 2
         x: 608
@@ -4819,7 +4819,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: misc-3_400
+      name: goomba_blue_die
       rect:
         serializedVersion: 2
         x: 291
@@ -5784,6 +5784,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: block_coin_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1093
+        width: 1
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accfee82df6c5ca4a9c0dd8c1d760319
+      internalID: 871582404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fort_brown_right
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 954
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440df7f194934b147840b0f2b1d02034
+      internalID: 1882623389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -5796,12 +5838,22 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       1up: 969741973
+      1up_underground: 779170028
       GreenPipe_Body: -397289144
       GreenPipe_Up: -1769141798
       QuestionBlock_1: -455416549
       QuestionBlock_2: -998935763
       QuestionBlock_3: 1888805763
+      QuestionBlock_blue_1: 426460065
+      QuestionBlock_blue_2: -729103154
+      QuestionBlock_blue_3: -2080962239
+      block_blue: -451254147
       block_brown: -40015800
+      block_coin_1: 871582404
+      block_coin_2: -2040347470
+      block_coin_3: -586304481
+      block_coin_4: 1326446050
+      brick_blue: -352179788
       brick_brown: 12696194
       cloud_blue_1: 1450029360
       cloud_blue_2: -1827858487
@@ -5809,13 +5861,24 @@ TextureImporter:
       coin_1: 108778609
       coin_2: 1865855305
       coin_3: -1525912359
-      flagpole_1: 1668589912
-      fort_brown: 1992789987
+      coin_blue_1: 1819077425
+      coin_blue_2: 948947977
+      coin_blue_3: -1236577265
+      empty_block_blue: 1695985052
+      empty_block_brown: 880639796
+      flag: -307992932
+      flagpole: 1668589912
+      fort_brown_left: 1992789987
+      fort_brown_right: 1882623389
       goomba_1: 1630883942
       goomba_2: -487494700
+      goomba_blue_1: -1897096784
+      goomba_blue_2: -740112968
+      goomba_blue_die: 1417871799
       goomba_die: -1197968773
       green_koopa_1: -317549714
       green_koopa_2: 83942729
+      ground_blue: -586240051
       ground_brown: -1778330271
       hill_big: -1639502375
       hill_small: 1914811073
@@ -5856,7 +5919,6 @@ TextureImporter:
       misc-3_137: 1952082719
       misc-3_138: -1130133493
       misc-3_139: 1482505465
-      misc-3_14: -352179788
       misc-3_140: -1302683935
       misc-3_141: 601750709
       misc-3_142: -28710141
@@ -5910,7 +5972,6 @@ TextureImporter:
       misc-3_187: -1223898253
       misc-3_188: -354520188
       misc-3_189: 1839671814
-      misc-3_19: -2056687153
       misc-3_190: 2104588475
       misc-3_191: -31631243
       misc-3_192: -1953647049
@@ -6033,7 +6094,6 @@ TextureImporter:
       misc-3_298: -65873084
       misc-3_299: 2077266841
       misc-3_3: 1896862891
-      misc-3_30: 880639796
       misc-3_300: -199524469
       misc-3_301: -956843414
       misc-3_302: -424348348
@@ -6044,7 +6104,6 @@ TextureImporter:
       misc-3_307: 1310768889
       misc-3_308: 499730018
       misc-3_309: -595399868
-      misc-3_31: 1695985052
       misc-3_310: 953700065
       misc-3_311: -1213250086
       misc-3_312: 618996898
@@ -6118,15 +6177,11 @@ TextureImporter:
       misc-3_376: -1148058809
       misc-3_377: -346341762
       misc-3_378: -438589362
-      misc-3_379: -2046982065
       misc-3_38: 2019950959
-      misc-3_380: -505043931
       misc-3_381: -1679827778
       misc-3_382: 120795744
       misc-3_383: 1875148326
       misc-3_384: 1402828139
-      misc-3_387: -1897096784
-      misc-3_388: -740112968
       misc-3_389: -1024692463
       misc-3_39: 1915750151
       misc-3_390: 620836819
@@ -6136,10 +6191,7 @@ TextureImporter:
       misc-3_394: -910309042
       misc-3_395: 194553791
       misc-3_396: -755361490
-      misc-3_397: -486591220
-      misc-3_398: 1998484378
       misc-3_40: -1941311922
-      misc-3_400: 1417871799
       misc-3_401: -1512106106
       misc-3_402: -1488082111
       misc-3_403: -1769201986
@@ -6182,7 +6234,6 @@ TextureImporter:
       misc-3_437: -1654990526
       misc-3_438: 235436772
       misc-3_439: 347448285
-      misc-3_44: -307992932
       misc-3_440: 1172360991
       misc-3_441: -103442020
       misc-3_442: 184208807
@@ -6225,7 +6276,6 @@ TextureImporter:
       misc-3_477: 1694551447
       misc-3_478: -1997359818
       misc-3_479: 966000022
-      misc-3_48: 299298601
       misc-3_480: -280022246
       misc-3_481: 1039822743
       misc-3_482: 1814987974
@@ -6304,7 +6354,6 @@ TextureImporter:
       misc-3_57: 424605049
       misc-3_58: -1931432524
       misc-3_59: -1156609067
-      misc-3_6: 779170028
       misc-3_60: -1062538360
       misc-3_61: 177607144
       misc-3_62: 1903254668
@@ -6313,36 +6362,31 @@ TextureImporter:
       misc-3_65: 1297055577
       misc-3_66: -217259726
       misc-3_68: -1827984752
-      misc-3_69: -451254147
-      misc-3_7: -1180509867
-      misc-3_70: -586240051
       misc-3_71: -1385639581
       misc-3_72: -1103142302
-      misc-3_74: -2040347470
-      misc-3_75: -586304481
-      misc-3_76: 1326446050
       misc-3_77: -252857693
       misc-3_78: 711898046
-      misc-3_8: 1723821906
-      misc-3_85: -432756219
-      misc-3_86: -2146595930
-      misc-3_87: 1131242265
-      misc-3_89: 426460065
-      misc-3_90: -729103154
-      misc-3_91: -2080962239
-      misc-3_92: 1819077425
-      misc-3_93: 948947977
-      misc-3_94: -1236577265
       misc-3_95: 956187218
       misc-3_96: -1548188263
       misc-3_97: 443974581
       misc-3_98: -304846975
       misc-3_99: -1038564895
+      moving_platform_3: 1723821906
+      moving_platform_4: -2056687153
+      moving_platform_6: -1180509867
       mushroom: -929467174
+      pirhana_1: -2046982065
+      pirhana_2: -505043931
+      pirhana_blue_1: -486591220
+      pirhana_blue_2: 1998484378
       shrub_1: 199810366
       shrub_2: 1058888003
       shrub_3: -735380238
+      star_1: 299298601
       start: -1398253719
+      ui_coin_1: -432756219
+      ui_coin_2: -2146595930
+      ui_coin_3: 1131242265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -703,7 +703,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_28
+      name: super_mario_turn_right
       rect:
         serializedVersion: 2
         x: 60
@@ -808,7 +808,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_33
+      name: super_mario_idle
       rect:
         serializedVersion: 2
         x: 209
@@ -829,7 +829,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_34
+      name: super_mario_move_1
       rect:
         serializedVersion: 2
         x: 239
@@ -850,7 +850,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_35
+      name: super_mario_move_2
       rect:
         serializedVersion: 2
         x: 270
@@ -871,7 +871,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_36
+      name: super_mario_move_3
       rect:
         serializedVersion: 2
         x: 299
@@ -892,7 +892,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_37
+      name: super_mario_turn_left
       rect:
         serializedVersion: 2
         x: 329
@@ -913,7 +913,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_38
+      name: super_mario_jump
       rect:
         serializedVersion: 2
         x: 359
@@ -934,7 +934,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_39
+      name: super_mario_crouch
       rect:
         serializedVersion: 2
         x: 389
@@ -1333,7 +1333,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_58
+      name: fire_mario_turn_right
       rect:
         serializedVersion: 2
         x: 52
@@ -1459,7 +1459,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_64
+      name: fire_mario_idle
       rect:
         serializedVersion: 2
         x: 209
@@ -1480,7 +1480,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_65
+      name: fire_mario_move_1
       rect:
         serializedVersion: 2
         x: 237
@@ -1501,7 +1501,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_66
+      name: fire_mario_move_2
       rect:
         serializedVersion: 2
         x: 263
@@ -1522,7 +1522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_67
+      name: fire_mario_move_3
       rect:
         serializedVersion: 2
         x: 287
@@ -1543,7 +1543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_68
+      name: fire_mario_shoot
       rect:
         serializedVersion: 2
         x: 312
@@ -1564,7 +1564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_69
+      name: fire_mario_turn_left
       rect:
         serializedVersion: 2
         x: 337
@@ -1585,7 +1585,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_70
+      name: fire_mario_jump
       rect:
         serializedVersion: 2
         x: 362
@@ -1606,7 +1606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mario_71
+      name: fire_mario_crouch
       rect:
         serializedVersion: 2
         x: 389
@@ -1973,6 +1973,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      fire_mario_crouch: -918553773
+      fire_mario_idle: -1569217976
+      fire_mario_jump: 627488821
+      fire_mario_move_1: -1182060080
+      fire_mario_move_2: 891046660
+      fire_mario_move_3: 24141877
+      fire_mario_shoot: 48274108
+      fire_mario_turn_left: 580551751
+      fire_mario_turn_right: -173875544
       mario_13: -399627481
       mario_14: -1172338857
       mario_15: 1753521894
@@ -1988,18 +1997,10 @@ TextureImporter:
       mario_25: -1946687327
       mario_26: 2135687865
       mario_27: -1616915540
-      mario_28: 1189462492
       mario_29: -1866461963
       mario_30: -1415851844
       mario_31: -499658915
       mario_32: -100221588
-      mario_33: 1460459497
-      mario_34: -1314182547
-      mario_35: -163250608
-      mario_36: 842327980
-      mario_37: 1465115980
-      mario_38: 418356309
-      mario_39: 1583071376
       mario_40: -516225842
       mario_41: -989762936
       mario_42: -536286902
@@ -2018,20 +2019,11 @@ TextureImporter:
       mario_55: 2061689539
       mario_56: 416088952
       mario_57: 1971926262
-      mario_58: -173875544
       mario_59: -686302187
       mario_60: 2076293158
       mario_61: 11270753
       mario_62: -1943128882
       mario_63: 843221077
-      mario_64: -1569217976
-      mario_65: -1182060080
-      mario_66: 891046660
-      mario_67: 24141877
-      mario_68: 48274108
-      mario_69: 580551751
-      mario_70: 627488821
-      mario_71: -918553773
       mario_72: -2139211144
       mario_73: 1839112197
       mario_74: -295454452
@@ -2061,6 +2053,14 @@ TextureImporter:
       mario_move_right_3: -1337285322
       mario_turn_left: -2041272178
       mario_turn_right: 1124862326
+      super_mario_crouch: 1583071376
+      super_mario_idle: 1460459497
+      super_mario_jump: 418356309
+      super_mario_move_1: -1314182547
+      super_mario_move_2: -163250608
+      super_mario_move_3: 842327980
+      super_mario_turn_left: 1465115980
+      super_mario_turn_right: 1189462492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

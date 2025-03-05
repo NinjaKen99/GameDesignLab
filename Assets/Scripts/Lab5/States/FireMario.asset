@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc3039d493ddd3469d7dfefde36b617, type: 3}
+  m_Name: FireMario
+  m_EditorClassIdentifier: 
+  setupActions:
+  - {fileID: 11400000, guid: 1bd72a6e951864f4e8f0506c3ffc4a4e, type: 2}
+  - {fileID: 11400000, guid: 95bca2c67d51b0d4dae63a95752679a9, type: 2}
+  actions: []
+  eventTriggeredActions:
+  - action: {fileID: 11400000, guid: db936f34e82b8e442af46a72fbf3f575, type: 2}
+    type: 0
+  exitActions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: 50aeae15f91ee484aaccc88f3d730448, type: 2}
+    trueState: {fileID: 11400000, guid: 4a4d406b81fb4324689672fbdc037281, type: 2}
+    falseState: {fileID: 11400000, guid: 237ccbc183003b64f865aeadbb3a2c23, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
